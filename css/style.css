@@ -1,0 +1,48 @@
+.container {
+	width: 1088px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.f-left {
+	float: left;
+	margin-right: 16PX;
+}
+.f-right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+
+.left-block,
+.right-block {
+	background-color: #F8F8F8;
+	width: 536px;
+	margin-bottom: 16px;
+}
+.text-wraper {
+	width: 260px;
+}
+.box {
+	width: 352px;
+	background-color: #F8F8F8;
+	float: left;
+}
+.size {
+	margin-right: 16px;
+}
+.text-block {
+	text-align: center;
+	margin-top: 23PX;
+	margin-bottom: 23PX;
+
+}
+.box-p {
+	width: 260px;
+	text-align: center;
+	display: inline-block;
+}
+.block{
+	margin-top: 50px;
+	background: #F8F8F8;
+}
